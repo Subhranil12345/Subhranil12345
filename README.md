@@ -1,10 +1,69 @@
-- 👋 Hi, I’m @Subhranil12345
-- 👀 I’m interested in learning about Jupyter notebooks, python, numpy using Jupyter notebooks and other tools related to data engineering, Front End Web Development, 2D game dev using flutter and flame.
-- 🌱 I’m currently learning full stack web development.
-- 💞️ I’m looking to collaborate on literally anything, I'm a self-learner and I'm looking forward to this website for upgrading my skillset.
-- 📫 How to reach me - can contact me on my email 'subhranildas1429@gmail.com' feel free to check out some of my websites like - 'https://subhranil12345.github.io/Dog-temp/'.
+# Hi there, I'm Subhranil Das 👋
 
-<!---
-Subhranil12345/Subhranil12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Frontend Web Developer | Open Source Enthusiast
+
+I'm a frontend developer from Siliguri, India, passionate about building scalable, performant web applications. I specialize in **React.js** and **Next.js**, with production experience building FinTech applications serving 10,000+ daily active users.
+
+### 🚀 What I Do
+
+- Build high-performance web applications with **Next.js**, **React**, and **TypeScript**
+- Optimize for performance (SSR, SEO, Lighthouse scores 90+)
+- Integrate complex REST APIs and manage state with **Redux**
+- Design intuitive user experiences with **Tailwind CSS** and **Ant Design**
+
+### 💼 Professional Experience
+
+**Frontend Developer @ Impacto Digifin Technologies** (Nov 2024 - Sep 2025)
+- Developed scalable FinTech applications for TECU, Trinidad & Tobago's central credit union
+- Optimized Next.js SSR, improving page load times by 25%
+- Implemented secure authentication flows and managed complex application state
+- Delivered critical fixes during live client demos
+
+### 🛠️ Tech Stack
+
+**Frontend:** Next.js • React • JavaScript • TypeScript  
+**Styling:** Tailwind CSS • Ant Design • CSS  
+**State Management:** Redux • Context API  
+**Tools:** Git • Axios • REST APIs  
+**Also Exploring:** Flutter • Flame Game Engine • Python
+
+### 🌱 Currently
+
+- Contributing to open source projects (Next.js, Ant Design, React ecosystem)
+- Learning full-stack development
+- Exploring game development with Flutter & Flame
+- Building my presence in the developer community
+
+### 🎯 2025 Goals
+
+- Make meaningful contributions to major open source projects
+- Share knowledge through technical writing
+- Collaborate with developers worldwide
+- Deepen expertise in performance optimization
+
+### 🎨 Beyond Code
+
+When I'm not coding, I'm:
+- Creating graphic designs and animations (Adobe After Effects)
+- Playing football ⚽
+- Gaming and exploring equity trading
+- Singing 🎤
+
+### 📫 Let's Connect
+
+- **Email:** subhranildas1429@gmail.com
+- **LinkedIn:** [linkedin.com/in/subhranil-das-265782167](https://linkedin.com/in/subhranil-das-265782167)
+- **Location:** Siliguri, West Bengal, India
+
+### 💡 Open to
+
+- Open source collaborations
+- Frontend development opportunities
+- Interesting side projects
+- Knowledge sharing and mentorship
+
+---
+
+💬 *"Always learning, always building, always improving."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subhranil12345&color=blueviolet)
