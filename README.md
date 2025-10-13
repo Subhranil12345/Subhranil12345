@@ -8,7 +8,7 @@ I'm a frontend developer from Siliguri, India, passionate about building scalabl
 
 - Build high-performance web applications with **Next.js**, **React**, and **TypeScript**
 - Optimize for performance (SSR, SEO, Lighthouse scores 90+)
-- Integrate complex REST APIs and manage state with **Redux**
+- Integrate complex REST APIs, web sockets and manage state with **Redux**
 - Design intuitive user experiences with **Tailwind CSS** and **Ant Design**
 
 ### 💼 Professional Experience
