@@ -15,7 +15,7 @@ I'm a Software developer from Siliguri, India, passionate about building scalabl
 
 ### 💼 Professional Experience
 
-**Frontend Developer @ Rezolve AI** (Dec 2025 - current) (now transitioned my career as a fullstack dev)
+**Frontend Developer @ Rezolve AI** (Dec 2025 - current) (now transitioning my career as a fullstack dev)
 - Developed Eko Eko an AI chatbot just like chatgpt but with frontend heavy animations striving towards a user-friendly approach.
 - Used Rive to deliver the intuitive animations, binded them using enums and used rive instances for reusability.
 - Worked on livekit. (a library used to handle webrtc and websockets to handle live data)
