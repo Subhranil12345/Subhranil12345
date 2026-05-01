@@ -2,13 +2,13 @@
 
 ## Frontend Web Developer | Open Source Enthusiast
 
-I'm a frontend developer from Siliguri, India, passionate about building scalable, performant web applications. I specialize in **React.js** and **Next.js**, with production experience building FinTech applications serving 10,000+ daily active users.
+I'm a Software developer from Siliguri, India, passionate about building scalable, performant web applications. I specialize in **React.js** and **Next.js**, with production experience building FinTech applications serving 10,000+ daily active users.
 
 ### 🚀 What I Do
 
 - Build high-performance web applications with **Next.js**, **React**, **TypeScript**.
-- Build 2D games using **Flutter**, **Flame**.
-- Build 3D games using **GoDot**, **Blender** for assets.
+- Build 2D games for mobile using **Flutter**, **Flame**.
+- Build 2D and 3D games using **GoDot**, **Blender** for assets.
 - Optimize for performance (SSR, SEO, Lighthouse scores 90+)
 - Integrate complex REST APIs, web sockets and manage state with **Redux**
 - Design intuitive user experiences with **Tailwind CSS** and **Ant Design**
