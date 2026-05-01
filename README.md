@@ -6,12 +6,20 @@ I'm a frontend developer from Siliguri, India, passionate about building scalabl
 
 ### 🚀 What I Do
 
-- Build high-performance web applications with **Next.js**, **React**, and **TypeScript**
+- Build high-performance web applications with **Next.js**, **React**, **TypeScript**.
+- Build 2D games using **Flutter**, **Flame**.
+- Build 3D games using **GoDot**, **Blender** for assets.
 - Optimize for performance (SSR, SEO, Lighthouse scores 90+)
 - Integrate complex REST APIs, web sockets and manage state with **Redux**
 - Design intuitive user experiences with **Tailwind CSS** and **Ant Design**
 
 ### 💼 Professional Experience
+
+**Frontend Developer @ Rezolve AI** (Dec 2025 - current) (now transitioned my career as a fullstack dev)
+- Developed Eko Eko an AI chatbot just like chatgpt but with frontend heavy animations striving towards a user-friendly approach.
+- Used Rive to deliver the intuitive animations, binded them using enums and used rive instances for reusability.
+- Worked on livekit. (a library used to handle webrtc and websockets to handle live data)
+- Worked on the architectural changes of the project using cache to enhance user experience and preloading rive instances for better optimisation.
 
 **Frontend Developer @ Impacto Digifin Technologies** (Nov 2024 - Sep 2025)
 - Developed scalable FinTech applications for TECU, Trinidad & Tobago's central credit union
